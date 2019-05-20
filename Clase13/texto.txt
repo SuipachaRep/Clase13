@@ -1,0 +1,16 @@
+Curso de Java Mayo 2019.
+Primavera.
+Verano.
+Otoño.
+Invierno.
+Lunes
+Lunes
+Martes
+Miércoles
+Jueves
+Viernes
+Viernes
+Sábado
+Domingo
+Rojo
+Verde
